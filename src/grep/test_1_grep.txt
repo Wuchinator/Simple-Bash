@@ -1,0 +1,4 @@
+sssssssssssssssssss
+grep code 
+str cat for int i
+printf something123344567890
